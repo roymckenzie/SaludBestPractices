@@ -6,3 +6,4 @@ A game to play with whoever, wherever whereby when someone sneezes and you say "
 #Rules
 1. Only sneezes of other people will be counted as a point (you cannot "excuse" yourself to gain a point).
 2. If you excuse yourself, that nullifies anyone from excusing you to gain a point.
+3. The sneeze must be witnessed by one other acknowledged game player in order to be counted.
