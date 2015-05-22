@@ -14,6 +14,6 @@ A game to play with whoever, wherever whereby when someone sneezes and you say "
 8. When a month finishes and a winner is declared for that month, take the difference between the first place score and second place score, then divide that number by two and round down.  All players, except for that months winner, will start off the new month with this score. The previous winner's starting score will be zero.  If it is the first month of the game, everyone's scores will all start at zero. This headstart rule only applies if the difference between first and second place is five points or more.
 9. If a player recognizes they are about to sneeze they are not allowed to notify another player, thus giving a clear advantage, be it through text, words, or gesturing -except for gestures used in their otherwise normal sneezing pattern.  After the sneeze is completed however, if no one noticies the act and no one calls out salud-or variant there of-, and the sneezer also does not call out salud- or variant there of-, they can choose to reveal that the sneeze has occured to anyone in any form they choose.  If however they use the word salud -or variant there of- in the process of informing someone else, even using text, the point is nullified by the sneezer.
 
-//Todo:
-//-need clearer rules for preventing alliances, and telling someone before you are about to sneeze
-//-need clear rules for giving/trading points.
+##Todo
+1. need clearer rules for preventing alliances, and telling someone before you are about to sneeze
+2. need clear rules for giving/trading points.
